@@ -7,4 +7,5 @@
 - Day 6(16th December) : completed lesson 4 ps 1b Additional practice
 - Day 7(17th December) : completed lesson 5  Visualizing data
 - Day 8(18th December) : completed lesson 6 2a  Visualizing data
+- Day 9(19th December) : completed lesson 7 ps  Additional practice
 
