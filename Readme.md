@@ -8,4 +8,6 @@
 - Day 7(17th December) : completed lesson 5  Visualizing data
 - Day 8(18th December) : completed lesson 6 2a  Visualizing data
 - Day 9(19th December) : completed lesson 7 ps  Additional practice
+- Day 10(20th December) : completed lesson 8  Google spreadsheet Tutorial
+
 
