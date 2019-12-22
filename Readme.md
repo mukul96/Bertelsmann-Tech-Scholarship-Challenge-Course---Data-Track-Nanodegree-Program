@@ -10,5 +10,6 @@
 - Day 9(19th December) : completed lesson 7 ps  Additional practice
 - Day 10(20th December) : completed lesson 8  Google spreadsheet Tutorial
 - Day 11(21th December) : completed lesson 9 Central Tendency
+- Day 12(22th December) : completed lesson 10 ps 3a Central Tendency
 
 
