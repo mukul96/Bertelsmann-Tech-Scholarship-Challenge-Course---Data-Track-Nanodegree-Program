@@ -13,4 +13,5 @@
 - Day 12(22th December) : completed lesson 10 ps 3a Central Tendency
 - Day 13(23rd December) : completed lesson 11 ps 3b Additional practice
 - Day 14(24rd December) : completed lesson 12 Variability
+- Day 15(25th December) : completed lesson 13 ps 4: Variability
 
