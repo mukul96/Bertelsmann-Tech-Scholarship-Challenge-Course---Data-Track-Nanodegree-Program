@@ -16,4 +16,5 @@
 - Day 15(25th December) : completed lesson 13 ps 4: Variability
 - Day 16(26th December) : completed lesson 14 Standardizing
 - Day 17(27th December) : completed lesson 15 5a Standardizing
+- Day 18(28th December) : completed lesson 16 ps 5b Additional practice(optional)
 
