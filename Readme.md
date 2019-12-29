@@ -17,4 +17,5 @@
 - Day 16(26th December) : completed lesson 14 Standardizing
 - Day 17(27th December) : completed lesson 15 5a Standardizing
 - Day 18(28th December) : completed lesson 16 ps 5b Additional practice(optional)
+- Day 19(29th December) : completed lesson 17 Normal Distribution
 
