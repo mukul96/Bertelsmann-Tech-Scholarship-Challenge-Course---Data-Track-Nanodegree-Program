@@ -19,4 +19,5 @@
 - Day 18(28th December) : completed lesson 16 ps 5b Additional practice(optional)
 - Day 19(29th December) : completed lesson 17 Normal Distribution
 - Day 20(30th December) : completed lesson 18 ps 6 Normal Distribution
+- Day 21(31st December) : completed lesson 19 Sampling Distributions
 
