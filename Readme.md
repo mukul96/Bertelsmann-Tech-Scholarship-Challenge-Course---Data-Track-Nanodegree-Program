@@ -20,4 +20,5 @@
 - Day 19(29th December) : completed lesson 17 Normal Distribution
 - Day 20(30th December) : completed lesson 18 ps 6 Normal Distribution
 - Day 21(31st December) : completed lesson 19 Sampling Distributions
+- Day 22(1st January) : completed lesson 20 ps 7: Sampling Distributions
 
