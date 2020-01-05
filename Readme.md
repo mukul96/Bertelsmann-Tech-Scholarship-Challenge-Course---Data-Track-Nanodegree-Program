@@ -24,3 +24,4 @@
 - Day 23(2nd January) : completed lesson 21 Why Python Programming
 - Day 24(3rd January) : completed lesson 22 Data types and Operators
 - Day 25(4th January) : completed lesson 23 Control Flow
+- Day 26(5th January) : completed lesson 24 Functions
