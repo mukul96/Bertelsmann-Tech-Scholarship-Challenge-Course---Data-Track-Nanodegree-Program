@@ -26,3 +26,4 @@
 - Day 25(4th January) : completed lesson 23 Control Flow
 - Day 26(5th January) : completed lesson 24 Functions
 - Day 27(6th January) : completed lesson 25 Scripting
+- Day 28(7th January) : completed lesson 26 Basic Sql
