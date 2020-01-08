@@ -27,3 +27,4 @@
 - Day 26(5th January) : completed lesson 24 Functions
 - Day 27(6th January) : completed lesson 25 Scripting
 - Day 28(7th January) : completed lesson 26 Basic Sql
+- Day 29(8th January) : completed lesson 27 Sql Joins
