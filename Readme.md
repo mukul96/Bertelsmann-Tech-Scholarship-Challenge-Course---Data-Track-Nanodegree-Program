@@ -30,4 +30,5 @@
 - Day 29(8th January) : completed lesson 27 Sql Joins
 - Day 30(9th January) : completed lesson 28 Sql Aggregations
 - Day 31(10th January) : completed lesson 29 Sql Subqueries and temporary tables
+- Day 32(11th January) : Did part 1 of the sql course on kaggle
 
