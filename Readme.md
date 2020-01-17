@@ -36,5 +36,6 @@
 - Day 35(14th January) : Did part 4 of the sql course on kaggle
 - Day 36(15th January) : started the  Advanced sql course on kaggle
 - Day 37(16th January) : Did part 2 of the Advanced sql course on kaggle
+- Day 38(17th January) : Did part 3 of the Advanced sql course on kaggle
 
 
