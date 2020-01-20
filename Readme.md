@@ -39,5 +39,6 @@
 - Day 38(17th January) : Did part 3 of the Advanced sql course on kaggle
 - Day 39(18th January) : Did part 4 of the Advanced sql course on kaggle
 - Day 40(19th January) : Completed the Advanced sql course on kaggle
+- Day 41(20th January) : SQL Data cleaning
 
 
