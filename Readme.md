@@ -41,5 +41,6 @@
 - Day 40(19th January) : Completed the Advanced sql course on kaggle
 - Day 41(20th January) : Completed lesson SQL Data cleaning
 - Day 42(21th January) : Practised Sql using real time databases
+- Day 43(22nd January) : Did 10 Sql questions on hackerrrank 
 
 
