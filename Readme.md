@@ -42,5 +42,6 @@
 - Day 41(20th January) : Completed lesson SQL Data cleaning
 - Day 42(21th January) : Practised Sql using real time databases
 - Day 43(22nd January) : Did 10 Sql questions on hackerrrank 
+- Day 44(23rd January) : Did 10 more Sql questions on hackerrrank 
 
 
