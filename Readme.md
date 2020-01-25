@@ -44,5 +44,8 @@
 - Day 43(22nd January) : Did 10 Sql questions on hackerrrank 
 - Day 44(23rd January) : Did 10 more Sql questions on hackerrrank 
 - Day 45(24th January) : Learnt about different SQL based connections in Django for doing analysis with web services
+- Day 46(25th January) : Practiced Sql questions on leetcode 
+
+
 
 
