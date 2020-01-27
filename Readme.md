@@ -46,6 +46,7 @@
 - Day 45(24th January) : Learnt about different SQL based connections in Django for doing analysis with web services
 - Day 46(25th January) : Practiced Sql questions on leetcode 
 - Day 47(26th January) : Practiced Sql questions on leetcode 
+- Day 48(27th January) : Practiced Sql questions on leetcode 
 
 
 
