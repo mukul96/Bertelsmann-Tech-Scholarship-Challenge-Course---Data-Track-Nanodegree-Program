@@ -49,6 +49,7 @@
 - Day 48(27th January) : Practiced Sql questions on leetcode
 - Day 49(28th January) : Practiced Sql questions on Interviewbit
 - Day 50(29th January) : Practiced Sql questions on Interviewbit
+- Day 51(30th January) : Practiced Sql questions on Interviewbit
 
 
 
