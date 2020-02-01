@@ -50,7 +50,8 @@
 - Day 49(28th January) : Practiced Sql questions on Interviewbit
 - Day 50(29th January) : Practiced Sql questions on Interviewbit
 - Day 51(30th January) : Practiced Sql questions on Interviewbit
-- Day 52(31st January) : Leant about Advanced sql queries from w3schools
+- Day 52(31st January) : Learnt about Advanced sql queries from w3schools
+- Day 53(1st Febuarary) : Practiced Sql questions on w3schools
 
 
 
