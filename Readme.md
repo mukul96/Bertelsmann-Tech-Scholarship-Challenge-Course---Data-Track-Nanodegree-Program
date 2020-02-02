@@ -51,7 +51,8 @@
 - Day 50(29th January) : Practiced Sql questions on Interviewbit
 - Day 51(30th January) : Practiced Sql questions on Interviewbit
 - Day 52(31st January) : Learnt about Advanced sql queries from w3schools
-- Day 53(1st Febuarary) : Practiced Sql questions on w3schools
+- Day 53(1st Febuary) : Practiced Sql questions on w3schools
+- Day 54(2nd Febuary) : Revised lesson 2 Introduction to research methods
 
 
 
