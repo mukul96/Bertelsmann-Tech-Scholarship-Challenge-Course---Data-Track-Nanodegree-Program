@@ -44,19 +44,20 @@
 - Day 43(22nd January) : Did 10 Sql questions on hackerrrank 
 - Day 44(23rd January) : Did 10 more Sql questions on hackerrrank 
 - Day 45(24th January) : Learnt about different SQL based connections in Django for doing analysis with web services
-- Day 46(25th January) : Practiced Sql questions on leetcode 
+- Day 46(25th January): Practiced Sql questions on leetcode 
 - Day 47(26th January) : Practiced Sql questions on leetcode 
 - Day 48(27th January) : Practiced Sql questions on leetcode
 - Day 49(28th January) : Practiced Sql questions on Interviewbit
 - Day 50(29th January) : Practiced Sql questions on Interviewbit
 - Day 51(30th January) : Practiced Sql questions on Interviewbit
 - Day 52(31st January) : Learnt about Advanced sql queries from w3schools
-- Day 53(1st Febuary) : Practiced Sql questions on w3schools
-- Day 54(2nd Febuary) : Revised lesson 2 Introduction to research methods
+- Day 53(1st February) : Practiced Sql questions on w3schools
+- Day 54(2nd February) : Revised lesson 2 Introduction to research methods
 - Day 55(3rd Febuary) : Revised lesson 3 ps 1a Intro to research methods
 - Day 56(4th Febuary) : Revised lesson 4 ps 1b Additional practice
 - Day 57(5th February) : Revised lesson 5  Visualizing data
 - Day 58(6th February) : Revised lesson 6  2a  Visualizing data
+- Day 59(7th February) : Revised lesson 7 ps  Additional practice
 
 
 
