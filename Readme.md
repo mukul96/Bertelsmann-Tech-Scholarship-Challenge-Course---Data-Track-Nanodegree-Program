@@ -59,6 +59,7 @@
 - Day 58(6th February) : Revised lesson 6  2a  Visualizing data
 - Day 59(7th February) : Revised lesson 7 ps  Additional practice
 - Day 60(8th February) : Revised lesson 8  Google spreadsheet Tutorial
+- Day 61(9th February) : Revised lesson 9 Central Tendency
 
 
 
