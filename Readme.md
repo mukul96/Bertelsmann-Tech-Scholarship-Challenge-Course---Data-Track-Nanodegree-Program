@@ -60,6 +60,7 @@
 - Day 59(7th February) : Revised lesson 7 ps  Additional practice
 - Day 60(8th February) : Revised lesson 8  Google spreadsheet Tutorial
 - Day 61(9th February) : Revised lesson 9 Central Tendency
+- Day 62(11th February) : Revised lesson 10 Sql questions on hackerrrank 
 
 
 
