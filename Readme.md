@@ -63,6 +63,7 @@
 - Day 62(11th February) : Revised lesson 10 Sql questions on hackerrrank 
 - Day 63(12th February) : Revised lesson 10 ps 3a Central Tendency and lesson 11 ps 3b Additional practice
 - Day 64(13th February) : Revised lesson 11 ps 3b Additional practice
+- Day 65(14th February) : Revised lesson 12 Variability
 
 
 
