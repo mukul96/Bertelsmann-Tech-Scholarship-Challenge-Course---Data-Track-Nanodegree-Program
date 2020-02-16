@@ -65,6 +65,7 @@
 - Day 64(13th February) : Revised lesson 11 ps 3b Additional practice
 - Day 65(14th February) : Revised lesson 12 Variability
 - Day 66(15th February) : Revised lesson 13 ps 4: Variability
+- Day 67(16th February) : Revised lesson 14 Standardizing
 
 
 
