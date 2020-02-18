@@ -67,6 +67,7 @@
 - Day 66(15th February) : Revised lesson 13 ps 4: Variability
 - Day 67(16th February) : Revised lesson 14 Standardizing
 - Day 68(17th February) : Revised lesson 15 5a Standardizing
+- Day 69(18th February) : Revised lesson 17 Normal Distribution
 
 
 
