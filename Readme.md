@@ -69,6 +69,7 @@
 - Day 68(17th February) : Revised lesson 15 5a Standardizing
 - Day 69(18th February) : Revised lesson 17 Normal Distribution
  -Day 70(19th February) : Revised lesson 18 ps 6 Normal Distribution
+ -Day 71(20th February) : Revised lesson 19 Sampling Distributions
 
 
 
