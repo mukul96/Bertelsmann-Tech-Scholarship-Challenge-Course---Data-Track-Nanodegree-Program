@@ -70,7 +70,6 @@
 - Day 69(18th February) : Revised lesson 17 Normal Distribution
  -Day 70(19th February) : Revised lesson 18 ps 6 Normal Distribution
  -Day 71(20th February) : Revised lesson 19 Sampling Distributions
-
-
+ -Day 72(21st February) : Revised lesson 20 ps 7: Sampling Distributions
 
 
