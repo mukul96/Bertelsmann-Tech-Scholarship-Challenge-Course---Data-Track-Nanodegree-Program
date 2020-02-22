@@ -68,8 +68,9 @@
 - Day 67(16th February) : Revised lesson 14 Standardizing
 - Day 68(17th February) : Revised lesson 15 5a Standardizing
 - Day 69(18th February) : Revised lesson 17 Normal Distribution
- -Day 70(19th February) : Revised lesson 18 ps 6 Normal Distribution
- -Day 71(20th February) : Revised lesson 19 Sampling Distributions
- -Day 72(21st February) : Revised lesson 20 ps 7: Sampling Distributions
+-Day 70(19th February) : Revised lesson 18 ps 6 Normal Distribution
+-Day 71(20th February) : Revised lesson 19 Sampling Distributions
+-Day 72(21st February) : Revised lesson 20 ps 7: Sampling Distributions
+-Day 73(22dn February) : Revised lesson 21 Why Python Programming
 
 
