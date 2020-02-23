@@ -71,6 +71,7 @@
 - Day 70(19th February) : Revised lesson 18 ps 6 Normal Distribution
 - Day 71(20th February) : Revised lesson 19 Sampling Distributions
 - Day 72(21st February) : Revised lesson 20 ps 7: Sampling Distributions
-- Day 73(22dn February) : Revised lesson 21 Why Python Programming
+- Day 73(22nd February) : Revised lesson 21 Why Python Programming
+- Day 74(23rd February) : Revised lesson 22 Data types and Operators
 
 
