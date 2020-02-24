@@ -73,5 +73,6 @@
 - Day 72(21st February) : Revised lesson 20 ps 7: Sampling Distributions
 - Day 73(22nd February) : Revised lesson 21 Why Python Programming
 - Day 74(23rd February) : Revised lesson 22 Data types and Operators
+- Day 75(24th February) : Revised lesson 23 Control Flow
 
 
