@@ -75,5 +75,6 @@
 - Day 74(23rd February) : Revised lesson 22 Data types and Operators
 - Day 75(24th February) : Revised lesson 23 Control Flow
 - Day 76(25th February) : Revised lesson 24 Functions
+- Day 77(26th February) : Revised lesson 25 Scripting
 
 
