@@ -77,5 +77,6 @@
 - Day 76(25th February) : Revised lesson 24 Functions
 - Day 77(26th February) : Revised lesson 25 Scripting
 - Day 78(27th February) : Revised lesson 26 Basic Sql
+- Day 79(28th February) : Revised lesson 27 Sql Joins
 
 
