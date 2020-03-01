@@ -78,5 +78,6 @@
 - Day 77(26th February) : Revised lesson 25 Scripting
 - Day 78(27th February) : Revised lesson 26 Basic Sql
 - Day 79(28th February) : Revised lesson 27 Sql Joins
+- Day 80(29th February):- Revised lesson 28 SQL Aggregations 
 
 
